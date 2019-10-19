@@ -1,0 +1,29 @@
+input{
+    width: 75%;
+    padding: 10px;
+    margin-left: 100px;
+    background-color: azure;
+    color: black;
+}
+button{
+    width: 15%;
+    padding: 5px;
+    margin-left: 100px;
+    background-color: red;
+    color: white;
+}
+
+.DirectorName{
+   margin-top: 50px;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   color: crimson;
+   font-size: 15px;
+   
+}
+
+img {
+    display:block;
+    margin-left: 800px;
+    margin-right: auto;
+    width: 25%;
+}
